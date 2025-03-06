@@ -46,10 +46,11 @@ body {
 	margin : 10px;
 }
 
-.card .textos {
+.card .textos .p {
 	margin-top: 40%;
 	height: 100%;	
 }
+
 
 .banner {
 	border-radius: 10px;
