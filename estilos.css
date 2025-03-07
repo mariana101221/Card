@@ -85,14 +85,13 @@ body {
 	margin-top: 45%;
 }
 
-@media screen and (max-width: 900px) {
-	
-}
-
 @media screen and (max-width: 700px) {
-	
-}
-
-@media screen and (max-width: 600px) {
-
+	.contenedor {
+		display: flex;
+		flex-direction: column;
+	}
+	.contenedor-conciertos {
+		display: flex;
+		flex-direction: column;
+	}
 }
